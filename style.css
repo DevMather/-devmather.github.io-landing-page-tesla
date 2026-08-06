@@ -57,7 +57,7 @@ header {
 }
 
 .opHeader:hover {
-    background-color: rgba(0, 0, 0, 0.16);
+    background-color: rgba(0, 0, 0, 0.05);
     transform: translateY(-1.5px) scale(1.05);
 }
 
